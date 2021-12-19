@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#ea2127</color>
+    <color name="colorPrimaryDark">#ea2127</color>
+    <color name="colorAccent">#ea2127</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="placklight">#090909</color>
+    <color name="colorFB">#3a5499</color>
+    <color name="colorPhone">#66c474</color>
+    <color name="colorSeprator">#CACACA</color>
+    <color name="gray">#CFD3D6</color>
+    <color name="colorBlack">#262626</color>
+    <color name="colorBlacklight">#59262626</color>
+    <color name="colorOnSurface">#B4FFFFFF</color>
+    <color name="secondoryText">#727272</color>
+    <color name="semigray">#414141</color>
+    <color name="radioBtnText">#171717</color>
+    <color name="redText">#d11e23</color>
+    <color name="grayPhone">#e3e3e3</color>
+    <color name="separatorPhone">#012c4e</color>
+    <color name="horizeltalViewBG">#3a3a3a</color>
+    <color name="circleGray">#ededed</color>
+    <color name="sepratorColor">#F8F8F8</color>
+    <color name="curvedPorderColor">#69707070</color>
+    <color name="pagerPackground">#f8f8f8</color>
+    <color name="plackDark">#000000</color>
+    <color name="redLight">#19BC0F0F</color>
+
+
+    <color name="colorPrimaryMenu">#1d58a6</color>
+    <color name="colorPrimarylgiht">#248acf</color>
+    <color name="colorInfoGray">#606060</color>
+
+    <color name="white3">#EFEFEF</color>
+
+    <color name="colorprimaryBlue">#296e9c</color>
+    <color name="pay_cash_btn">#0e8f21</color>
+    <color name="colorRed">#CB2032</color>
+    <color name="colorError">#f77f7f</color>
+    <color name="colorCorrect">#77d881</color>
+    <color name="colorOrange">#F4981C</color>
+    <color name="colorBackground">#E1E8EE</color>
+    <color name="colorlightBlue">#0E50FE</color>
+    <color name="colorlightSmawy">#44AEFE</color>
+    <color name="colordarkred">#B50009</color>
+    <color name="transparent">#DDD6D6</color>
+    <color name="transparent2">#00AF0D0D</color>
+    <color name="gray_inbody_history_fragment">#3D3D44</color>
+    <color name="gray_second">#B3ACAC</color>
+    <color name="gray_second_notification">#222241</color>
+    <color name="gray_second_cardview">#09202C</color>
+    <color name="colordarkGray">#6C6C6C</color>
+    <color name="colorLightGray">#EFEFEF</color>
+    <color name="colorGray">#F4F4F4</color>
+    <color name="colorYellow">#FEC722</color>
+    <color name="colorgreen">#1EA781</color>
+    <color name="colorTransparentBlack">#323D3A3A</color>
+    <color name="startGrey">#81807C</color>
+    <color name="list_back">#F7F7F7</color>
+    <color name="red">#ff0000</color>
+    <color name="red_line">#ad0a0d</color>
+    <color name="red_line_home">#3D0406</color>
+    <color name="red_6x">#abff0000</color>
+    <color name="grey_name_device">#d2d2d2</color>
+    <color name="black_policy">#878282</color>
+    <color name="blues">#161c31</color>
+
+    <color name="red_background_home">#ff0000</color>
+    <color name="black_background_home">#111111</color>
+
+
+    <!-- swip to refresh color -->
+    <color name="orange">#FDAB4D</color>
+    <color name="orange2">#C37113</color>
+    <color name="green">#63c3aa</color>
+    <color name="blue">#000099</color>
+    <color name="colorBackgroundEditText">#a7a7a7</color>
+    <color name="hintEditText">#878787</color>
+    <color name="colorGrayDark">#353535</color>
+    <color name="hospital_title">#636363</color>
+    <color name="gray_textview">#6f6f6f</color>
+    <color name="colorBlackTransparent">#32000000</color>
+    <color name="colorGradientStart">#1a9bae</color>
+    <color name="colorGradientEnd">#092f44</color>
+    <color name="colorDrawerBackground">#f0f0f0</color>
+    <color name="colorMenuTitle">#58595b</color>
+    <color name="color_circle">#6B6B74</color>
+    <color name="text_color">#484b4d</color>
+    <color name="btn_color">#69cac7</color>
+</resources>
